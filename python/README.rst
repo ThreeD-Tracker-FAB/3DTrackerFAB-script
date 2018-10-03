@@ -14,16 +14,16 @@ example*.py
 
 Examples showing how to use the library.
 
-.. figure:: figs/ss_example02.png
-    :width: 300 px
-    :align: center
+.. raw:: html
 
-    [Output of example02; ploting Z axis on RGB images]
+    <img src="figs/ss_example02.png" width="400px">
+
+[Output of example02; ploting Z axis on RGB images]
 
 ----
 
-.. figure:: figs/ss_example03.png
-    :width: 300 px
-    :align: center
+.. raw:: html
 
-    [Output of example03; showing 3D points (red) in ROI]
+    <img src="figs/ss_example03.png" width="400px">
+
+[Output of example03; showing 3D points (red) in ROI]
