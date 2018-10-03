@@ -13,9 +13,3 @@ example*.py
 -----------
 
 Examples showing how to use the library.
-
-------
-
-**To do:**
-
-+ functions for analyzing trace of body parts
