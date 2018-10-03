@@ -14,7 +14,8 @@ example*.py
 
 Examples showing how to use the library.
 
-To do list
-^^^^^^^^^^
+------
+
+**To do:**
 
 + functions for analyzing trace of body parts
