@@ -14,6 +14,9 @@ example*.py
 
 Examples showing how to use the library.
 
+Screen shots:
+^^^^^^^^^^^^^
+
 .. raw:: html
 
     <img src="figs/ss_example02.png" width="400px">
