@@ -6,7 +6,7 @@ lib3dtracker.py
 
 The main library.
 
-+ functions read 2D and 3D image data recorded with 3DTracker-FAB
++ functions to read 2D and 3D image data recorded with 3DTracker-FAB
 + functions to convert 2D to 3D positions and vise versa.
 
 example*.py
