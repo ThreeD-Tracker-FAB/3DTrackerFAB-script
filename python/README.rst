@@ -15,13 +15,13 @@ example*.py
 Examples showing how to use the library.
 
 .. figure:: figs/ss_example02.png
-    :scale: 50%
+    :width: 50%
     :align: center
 
     [Output of example02; ploting Z axis on RGB images]
 
 .. figure:: figs/ss_example03.png
-    :scale: 50%
+    :width: 50%
     :align: center
 
     [Output of example03; showing 3D points (red) in ROI]
