@@ -20,6 +20,8 @@ Examples showing how to use the library.
 
     [Output of example02; ploting Z axis on RGB images]
 
+----
+
 .. figure:: figs/ss_example03.png
     :width: 300 px
     :align: center
